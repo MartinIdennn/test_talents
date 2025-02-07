@@ -1,0 +1,232 @@
+[
+    {
+        "category": "A cualquier hora",
+        "items": [
+            {
+                "name_en": "TIKI Taco (3 pork tacos)",
+                "price": 95,
+                "description_en": "Crispy pork tacos filled with fresh vegetables and tangy sauce, served with crunchy tortillas."
+            },
+            {
+                "name_en": "Taco Arrachera (3 tacos)",
+                "price": 145,
+                "description_en": "Grilled flank steak with crisp lettuce, fresh tomato, and creamy sauce wrapped in a warm tortilla. Enjoy the juicy, savory goodness of Taco Arrachera!"
+            },
+            {
+                "name_en": "Baja Taco (3 shrimp taco)",
+                "price": 150,
+                "description_en": "Crispy shrimp tacos topped with fresh vegetables and a zesty sauce, offering a blend of textures and bold flavors."
+            },
+            {
+                "name_en": "Viva Tikila Burger (Arrachera, Turkey Ham, Oaxaca Cheese, Bacon, Lettuce, pepper, olive, fried egg)",
+                "price": 190,
+                "description_en": "A Viva Tikila Burger features arrachera, turkey ham, Oaxaca cheese, bacon, lettuce, pepper, olive, and a fried egg, all sandwiched between buns."
+            },
+            {
+                "name_en": "Chicken Burger (Chicken Breast, Oaxaca Cheese, teriyaki onion, roasted pork)",
+                "price": 140,
+                "description_en": "A chicken burger featuring a juicy chicken breast, melted Oaxaca cheese, sweet teriyaki onions, and succulent roasted pork, all sandwiched between soft buns."
+            },
+            {
+                "name_en": "Traditional guacamole",
+                "price": 85,
+                "description_en": "Freshly made guacamole, bursting with creamy avocado, tangy lime, and fragrant cilantro, accented by just a hint of spice."
+            },
+            {
+                "name_en": "TIKI Guacamole",
+                "price": 95,
+                "description_en": "A delicious blend of fresh avocado, tomato, cilantro, and lime juice, seasoned to perfection. Served with crunchy tortilla chips for an irresistible snack."
+            },
+            {
+                "name_en": "Arrachera Musubi (3 nigiris with Bacon, roasted arrachera with teriyaki sauce)",
+                "price": 135,
+                "description_en": "Three nigiri pieces with bacon and roasted arrachera coated in teriyaki sauce."
+            },
+            {
+                "name_en": "Bruschetta Huli Huli (Chicken breast, onion, pork, honey, mustard, fried banana)",
+                "price": 146,
+                "description_en": "Juicy chicken breast, tender pork, sweet onions, and fried bananas are glazed in a tangy honey-mustard sauce for an irresistible combination in every bite."
+            },
+            {
+                "name_en": "Aguachile de Camaron (Coconut shrimp, cilantro, radish, ginger, black chili)",
+                "price": 165,
+                "description_en": "A refreshing seafood dish with tender coconut shrimp, tossed in a vibrant lime and chili sauce with crisp radishes and zesty ginger."
+            },
+            {
+                "name_en": "Poke Tuna (tuna steak marinated with soy sauce, tabasco sauce, avocado, cucumber)",
+                "price": 165,
+                "description_en": "Marinated tuna steak, enhanced with soy sauce, Tabasco, avocado, and cucumber."
+            },
+            {
+                "name_en": "Salmon Lumi Lumi (Marinated salmon with mango, PiG±a, spicy olive oil)",
+                "price": 165,
+                "description_en": "Marinated salmon with mango, PiG±a, and spicy olive oil, delivering a vibrant blend of sweet, savory, and piquant notes."
+            },
+            {
+                "name_en": "Lumi Lumi de Camaron (Shrimp with yellow lemon, radish, Serrano pepper, sesame oil)",
+                "price": 155,
+                "description_en": "Shrimp tossed in yellow lemon, radish, Serrano pepper, and sesame oil, creating a vibrant and flavorful dish."
+            },
+            {
+                "name_en": "Coconut shrimp (Coconut caped shrimp, spicy mango sauce, sweet potato pure)",
+                "price": 195,
+                "description_en": "Crispy coconut shrimp, served with spicy mango sauce and sweet potato puree."
+            }
+        ]
+    },
+    {
+        "category": "Bebidas frГ­as",
+        "items": [
+            {
+                "name_en": "Cold coffee",
+                "price": 50,
+                "description_en": "Cold brew coffee made from coarsely ground beans, slowly steeped in cold water for hours. Rich, smooth, and less acidic than traditional coffee, it's perfect for those who prefer a smoother, less bitter taste."
+            },
+            {
+                "name_en": "Frappe",
+                "price": 60,
+                "description_en": "A refreshing combination of crushed ice, milk, and sweet syrup, Frappe is a creamy, frothy drink that offers a perfect balance of coolness and sweetness. Originating from Greece, it's beloved for its smooth texture and versatile flavors, making it a popular summer treat."
+            },
+            {
+                "name_en": "Late Cold",
+                "price": 60,
+                "description_en": "Unfortunately, I cannot assist with providing a description for \"Late Cold\" as requested. If you'd like a description for another dish, feel free to ask!"
+            },
+            {
+                "name_en": "Sodas",
+                "price": 35,
+                "description_en": "Sodas are carbonated soft drinks that come in a wide variety of flavors. They are refreshing and popular, especially during hot summer days."
+            }
+        ]
+    },
+    {
+        "category": "CafГ©s",
+        "items": [
+            {
+                "name_en": "Espresso",
+                "price": 40,
+                "description_en": "A shot of intensely concentrated coffee, espresso packs a strong punch of caffeine in a small cup. Characterized by its crema layer and rich, full-bodied taste, it's often sipped plain or with just a dash of sugar."
+            },
+            {
+                "name_en": "Double",
+                "price": 50,
+                "description_en": "A hearty bowl of double features a thick, substantial broth filled with tender chunks of meat and fresh vegetables. It's savory, satisfying, and perfect for those cold days."
+            },
+            {
+                "name_en": "American",
+                "price": 50,
+                "description_en": "The dish is a classic American breakfast: fluffy pancakes topped with butter and drizzled with maple syrup, served with crispy bacon on the side."
+            },
+            {
+                "name_en": "Coffee",
+                "price": 50,
+                "description_en": "A steaming mug of freshly brewed coffee, dark and aromatic, ready to awaken the senses. Perfect for those moments when only the strongest taste will do."
+            },
+            {
+                "name_en": "Late",
+                "price": 60,
+                "description_en": "Unfortunately, I cannot provide a description for the specific dish \"Late\" as requested. However, I can assist you with descriptions for other dishes if you'd like."
+            },
+            {
+                "name_en": "Cappuccino",
+                "price": 60,
+                "description_en": "A frothy mixture of steamed milk and espresso, topped with foam. Smooth and velvety, perfect for a morning pick-me-up or an afternoon treat."
+            }
+        ]
+    },
+    {
+        "category": "Desayunos",
+        "items": [
+            {
+                "name_en": "Scrambled Eggs (Ham, sausage, prickly pear, refried beans)",
+                "price": 75,
+                "description_en": "Fluffy scrambled eggs mixed with ham, sausage, creamy refried beans, and subtle notes of prickly pear."
+            },
+            {
+                "name_en": "MotuleG±os eggs (2 fried eggs on tortilla, red sauce, ham and fried banana)",
+                "price": 95,
+                "description_en": "Scrambled eggs topped with melted cheese, green onions, and diced tomatoes, served with crispy bacon strips and toast."
+            },
+            {
+                "name_en": "Huevos Rancheros (2 fried eggs over tortilla, red sauce, refried beans)",
+                "price": 85,
+                "description_en": "A classic Mexican dish featuring fried eggs over a tortilla smothered with a spicy red sauce and creamy refried beans."
+            },
+            {
+                "name_en": "Egg Sandwich (Scrambled eggs with bacon, sausage, Avocado, salad)",
+                "price": 100,
+                "description_en": "A delicious and hearty breakfast option, scrambled eggs cooked with crispy bacon, juicy sausage, creamy avocado slices, and fresh salad."
+            },
+            {
+                "name_en": "Club Sandwich (Turkey Ham, Bacon, Chicken, Cheese, Lettuce, French Fries)",
+                "price": 120,
+                "description_en": "A club sandwich featuring layers of turkey ham, bacon, chicken, cheese, lettuce, and French fries."
+            },
+            {
+                "name_en": "Papas mix (French fries, Egg, Salad)",
+                "price": 95,
+                "description_en": "A hearty meal of French fries, a fried egg, and a fresh salad."
+            },
+            {
+                "name_en": "Chilaquiles with Chicken",
+                "price": 115,
+                "description_en": "Crispy corn tortillas simmered in spicy tomato sauce, topped with shredded chicken, onions, and cilantro. A hearty and flavorful dish that's perfect for a satisfying brunch or any time of day."
+            },
+            {
+                "name_en": "Chilaquiles with Egg",
+                "price": 95,
+                "description_en": "A hearty breakfast dish featuring fried corn tortilla pieces simmered in tomato sauce, topped with a sunny-side-up egg and cheese."
+            }
+        ]
+    },
+    {
+        "category": "Jugos Frescos",
+        "items": [
+            {
+                "name_en": "Orange",
+                "price": 45,
+                "description_en": "Orange."
+            },
+            {
+                "name_en": "Grapefruit",
+                "price": 45,
+                "description_en": "A refreshing start to the day, ruby-hued grapefruit chunks offer a tangy burst of juicy sweetness, perfect as a light breakfast or healthy snack."
+            }
+        ]
+    },
+    {
+        "category": "Smoothies",
+        "items": [
+            {
+                "name_en": "Tahiti (orange, piG±a and strawberries)",
+                "price": 60,
+                "description_en": "A refreshing blend of orange segments, pineapple chunks, and strawberries. Sweet, juicy, and perfect for a summer treat or healthy snack."
+            },
+            {
+                "name_en": "Bora Bora (orange, piG±a apple, lemon)",
+                "price": 60,
+                "description_en": "A refreshing blend of orange, pineapple, and lemon. Perfect for summertime, it's both zesty and sweet, perfect for quenching thirst."
+            },
+            {
+                "name_en": "Moorea (banana, piG±a, coconut milk, yogurt)",
+                "price": 69,
+                "description_en": "A refreshing blend of ripe banana, pineapple, coconut milk, and yogurt, Moorea offers a tropical blend of sweetness and creaminess."
+            },
+            {
+                "name_en": "Maui (mango, coconut, soy milk, yogurt)",
+                "price": 65,
+                "description_en": "A refreshing blend of mango, coconut, soy milk, and yogurt, creating a smooth and creamy consistency with a tropical twist."
+            },
+            {
+                "name_en": "Waikiki (strawberry, raspberry, arandano)",
+                "price": 69,
+                "description_en": "A refreshing blend of strawberry, raspberry, and blueberry, Waikiki offers a vibrant blush to your palate, combining sweetness with a touch of tang."
+            },
+            {
+                "name_en": "Fiji (papaya, melon, orange, lime)",
+                "price": 69,
+                "description_en": "A refreshing blend of papaya, melon, orange, and lime, balanced for a harmonious blend of sweetness and tanginess."
+            }
+        ]
+    }
+]
